@@ -1,9 +1,9 @@
 class Shot < Formula
   desc "Headless macOS screenshots for AI agents: capture, mark up, redact, find (MCP)"
   homepage "https://github.com/davekiss/shot"
-  url "https://github.com/davekiss/shot/releases/download/v0.1.8/shot-macos-universal.tar.gz"
-  version "0.1.8"
-  sha256 "467b77cbdbef35a1405490d0f383f66b7bfd12801eda73d0e448ab916132f327"
+  url "https://github.com/davekiss/shot/releases/download/v0.1.9/shot-macos-universal.tar.gz"
+  version "0.1.9"
+  sha256 "9746e1603c2f8ae2c3ab77a1cd0cc5bf2042ee1c214fc6d70bde499271f4f86c"
   license "MIT"
 
   depends_on :macos
